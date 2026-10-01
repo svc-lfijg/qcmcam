@@ -1,0 +1,301 @@
+{
+  "uid": "QCMCamQcms",
+  "data": {
+    "_list": [
+      [
+        2,
+        "test 1",
+        5,
+        3,
+        1,
+        "qcmcam2"
+      ],
+      [
+        3,
+        "test 1",
+        8,
+        3,
+        1,
+        "qcmcam2"
+      ]
+    ],
+    "_miniatures": [
+      {
+        "_content": "<h3>bonjour</h3>",
+        "_source": "",
+        "_type": "text",
+        "_answers": [
+          {
+            "_content": "<p>a</p>",
+            "_isCorrect": false,
+            "_color": ""
+          },
+          {
+            "_content": "<p>b</p>",
+            "_isCorrect": false,
+            "_color": ""
+          },
+          {
+            "_content": "<p>b</p>",
+            "_isCorrect": false,
+            "_color": ""
+          }
+        ],
+        "_displayMode": "classic",
+        "_shuffleMode": true,
+        "_multipleAnswerMode": false,
+        "_timedMode": false,
+        "_duration": 0,
+        "_textSize": 1,
+        "_id": 5,
+        "_uniqueId": "65250590-16b9-43d9-9557-7f655381fd0f"
+      },
+      {
+        "_content": "<h3>bonjour</h3>",
+        "_source": "",
+        "_type": "text",
+        "_answers": [
+          {
+            "_content": "<p>a</p>",
+            "_isCorrect": false,
+            "_color": ""
+          },
+          {
+            "_content": "<p>b</p>",
+            "_isCorrect": false,
+            "_color": ""
+          },
+          {
+            "_content": "<p>b</p>",
+            "_isCorrect": false,
+            "_color": ""
+          }
+        ],
+        "_displayMode": "classic",
+        "_shuffleMode": true,
+        "_multipleAnswerMode": false,
+        "_timedMode": false,
+        "_duration": 0,
+        "_textSize": 1,
+        "_id": 8,
+        "_uniqueId": "65250590-16b9-43d9-9557-7f655381fd0f"
+      }
+    ]
+  },
+  "qcms": [
+    {
+      "qcm": {
+        "_name": "test 1",
+        "_type": "qcmcam2",
+        "_questionsList": [
+          5,
+          6,
+          7
+        ],
+        "_id": 2,
+        "_uniqueId": "5cc227b4-6a04-431d-a10b-bba33c306075",
+        "_coloredAnswers": true,
+        "_colors": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "_vignette": "",
+        "_questions": [],
+        "_sectionId": 1,
+        "_markdownSource": ""
+      },
+      "type": "qcmcam2",
+      "questions": [
+        {
+          "_content": "<h3>bonjour</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "<p>a</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>b</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>b</p>",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": true,
+          "_multipleAnswerMode": false,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 5,
+          "_uniqueId": "65250590-16b9-43d9-9557-7f655381fd0f"
+        },
+        {
+          "_content": "<h3>Nouvelle vvquestion</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "<p>v</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>vf</p>",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": false,
+          "_multipleAnswerMode": true,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 6,
+          "_uniqueId": "a83a6bad-d983-4f3d-a3b6-2b7a6e1c0a01"
+        },
+        {
+          "_content": "<h3>Nouvelle questiondd</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": true,
+          "_multipleAnswerMode": false,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 7,
+          "_uniqueId": "2e51c868-3c1e-47de-9e79-4a57ba48435a"
+        }
+      ]
+    },
+    {
+      "qcm": {
+        "_name": "test 1",
+        "_type": "qcmcam2",
+        "_questionsList": [
+          8,
+          9,
+          10
+        ],
+        "_id": 3,
+        "_uniqueId": "565f5083-3afd-499f-a4a9-95d005f28074",
+        "_coloredAnswers": true,
+        "_colors": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "_vignette": "",
+        "_questions": [],
+        "_sectionId": 1,
+        "_markdownSource": ""
+      },
+      "type": "qcmcam2",
+      "questions": [
+        {
+          "_content": "<h3>bonjour</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "<p>a</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>b</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>b</p>",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": true,
+          "_multipleAnswerMode": false,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 8,
+          "_uniqueId": "65250590-16b9-43d9-9557-7f655381fd0f"
+        },
+        {
+          "_content": "<h3>Nouvelle vvquestion</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "<p>v</p>",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "<p>vf</p>",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": false,
+          "_multipleAnswerMode": true,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 9,
+          "_uniqueId": "a83a6bad-d983-4f3d-a3b6-2b7a6e1c0a01"
+        },
+        {
+          "_content": "<h3>Nouvelle questiondd</h3>",
+          "_source": "",
+          "_type": "text",
+          "_answers": [
+            {
+              "_content": "",
+              "_isCorrect": false,
+              "_color": ""
+            },
+            {
+              "_content": "",
+              "_isCorrect": false,
+              "_color": ""
+            }
+          ],
+          "_displayMode": "classic",
+          "_shuffleMode": true,
+          "_multipleAnswerMode": false,
+          "_timedMode": false,
+          "_duration": 0,
+          "_textSize": 1,
+          "_id": 10,
+          "_uniqueId": "2e51c868-3c1e-47de-9e79-4a57ba48435a"
+        }
+      ]
+    }
+  ]
+}
